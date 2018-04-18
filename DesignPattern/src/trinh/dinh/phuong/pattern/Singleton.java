@@ -49,7 +49,7 @@ chỉ có duy nhất một người được sử dụng.
 Có nghĩa là tài nguyên cần được đồng bộ hóa và nó sẽ public, available cho
 toàn bộ hệ thống. Global available, một tài nguyên chia sẻ cho tất cả mọi người
 Đặc điểm thứ 2: tại một thời điểm chỉ có duy nhất một đối tượng được sử dụng
-Singleton mang ý nghĩa global state, chỉ duy nhất một đối tượng được sinh ra
+Singleton mang ý nghĩa: chỉ duy nhất một đối tượng được sinh ra
 Trong trường hợp connect tới database, nếu muốn giới hạn số connection được tạo ra thì sẽ tạo một cái pool
 để quản lý số lượng instance 
 Singleton bản mở rộng có thể hạn chế số lượng instance được tạo ra 
