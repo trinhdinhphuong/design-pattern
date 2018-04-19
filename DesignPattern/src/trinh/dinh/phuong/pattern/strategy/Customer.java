@@ -23,6 +23,8 @@ public class Customer {
     }
 }
 /*
+Ý nghĩa của nó là tách rời phần xử lý của một chức năng cụ thể ra khỏi đối tượng
+
 Thông số truyền vào khác nhau sẽ ra kết quả khác nhau
 Không thể áp dụng cùng một chiến lược cho các khu vực khác nhau: 
 nông thôn, thành thị,
