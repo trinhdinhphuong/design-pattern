@@ -3,6 +3,7 @@ package trinh.dinh.phuong.pattern;
 /**
  *
  * @author phuongtrinh
+ * @website: https://trinhdinhphuong.com
  */
 public class Factory {
     //Cần giữ Factory class là Singleton hoặc method trả về subclass là static
