@@ -1,4 +1,4 @@
-package trinh.dinh.phuong.pattern;
+package trinh.dinh.phuong.pattern.Factory;
 
 /**
  *

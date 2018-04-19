@@ -1,4 +1,6 @@
-package trinh.dinh.phuong.pattern;
+package trinh.dinh.phuong.pattern.Factory;
+
+import trinh.dinh.phuong.pattern.Factory.Computer;
 
 /**
  *
