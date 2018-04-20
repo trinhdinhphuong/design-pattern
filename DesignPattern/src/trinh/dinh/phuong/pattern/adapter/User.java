@@ -8,6 +8,7 @@ package trinh.dinh.phuong.pattern.adapter;
 /**
  *
  * @author Trinh Dinh Phuong
+ * @website: https://trinhdinhphuong.com
  */
 public class User {
     // Client Class
@@ -17,6 +18,11 @@ public class User {
     }
 }
 /*
+Thích nghi
+Thích nghi các loại khác nhau
+Ví dụ adapter đa năng
+Cấu trúc UML
+
 User không cần biết bên trong của ChargerAdapter
 User cần sạc thì gọi thằng sạc ra thôi
 KISS; Keep it simple service, đầu tiên làm cho nó chạy đúng một cách đơn giản

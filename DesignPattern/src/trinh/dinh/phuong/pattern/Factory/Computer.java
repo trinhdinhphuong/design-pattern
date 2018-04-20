@@ -2,7 +2,7 @@ package trinh.dinh.phuong.pattern.Factory;
 
 /**
  *
- * @author phuongtrinh
+ * @author Trinh Dinh Phuong
  * @website: https://trinhdinhphuong.com
  */
 public abstract class Computer {

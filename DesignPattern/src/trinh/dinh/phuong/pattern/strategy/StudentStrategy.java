@@ -2,7 +2,7 @@ package trinh.dinh.phuong.pattern.strategy;
 
 /**
  *
- * @author phuongtrinh
+ * @author Trinh Dinh Phuong
  * @website: https://trinhdinhphuong.com
  */
 public class StudentStrategy implements MarketingStrategy{

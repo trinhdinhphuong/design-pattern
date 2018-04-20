@@ -7,7 +7,8 @@ package trinh.dinh.phuong.pattern.adapter;
 
 /**
  *
- * @author phuongtrinh
+ * @author Trinh Dinh Phuong
+ * @website: https://trinhdinhphuong.com
  */
 public class ChargerAdapter {
     //Adapter

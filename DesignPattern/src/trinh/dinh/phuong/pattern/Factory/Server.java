@@ -4,7 +4,7 @@ import trinh.dinh.phuong.pattern.Factory.Computer;
 
 /**
  *
- * @author phuongtrinh
+ * @author Trinh Dinh Phuong
  * @website: https://trinhdinhphuong.com
  */
 public class Server extends Computer{
