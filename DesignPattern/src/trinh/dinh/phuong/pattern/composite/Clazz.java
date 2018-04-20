@@ -5,6 +5,7 @@ import java.util.ArrayList;
 /**
  *
  * @author Trinh Dinh Phuong
+ * @website: https://trinhdinhphuong.com
  */
 public class Clazz implements Education{
     // Composite

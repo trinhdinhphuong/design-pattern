@@ -2,7 +2,8 @@ package trinh.dinh.phuong.pattern.composite;
 
 /**
  *
- * @author phuongtrinh
+ * @author Trinh Dinh Phuong
+ * @website: https://trinhdinhphuong.com
  */
 public interface Education {
     //Component
